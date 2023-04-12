@@ -17,7 +17,7 @@ Los términos utilizados en esta Política de privacidad tienen los mismos signi
 
 **Recopilación y uso de información**
 
-Para una mejor experiencia, mientras usa nuestro Servicio, puedo solicitarle que nos proporcione cierta información de identificación personal, que incluye, entre otros, Nombre, Dirección de correo electrónico y/o fotos del usuario. La información solicitada es opcional, requerida exclusivamente para personalizar la experiencia creando una cuenta de usuario.
+Para una mejor experiencia, mientras usa nuestro Servicio, se puede solicitar y/o recopilar cierta información de identificación personal, que incluye, entre otros, Nombre, Dirección de correo electrónico y/o fotos del usuario. La información solicitada es opcional, requerida exclusivamente para personalizar la experiencia creando una cuenta de usuario.
 
 La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para crear estadísticas, seguimiento de uso y registro de errores.
 
