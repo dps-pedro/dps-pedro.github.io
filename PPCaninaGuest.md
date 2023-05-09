@@ -78,7 +78,7 @@ Este Servicio puede contener enlaces a otros sitios. Si hace clic en un enlace d
 
 Nuestra Política de privacidad puede ser actualizada de vez en cuando. Por lo tanto, se le recomienda revisar esta página periódicamente para ver si hay cambios. Cualquier cambio será notificado publicando una nueva Política de privacidad en esta página.
 
-Esta política es efectiva a partir del 2022-12-20
+Esta política es efectiva a partir del 2023-04-9
 
   
 
